@@ -27,4 +27,7 @@ enum DEFAULTS : string {
   */
  const LAST_MOD = "2024-08-01T00:15:00.000Z" ;
 
+ const CHANGE_FREQ = "monthly" ;
+
+ const PRIORITY = "0.5" ;
 }
