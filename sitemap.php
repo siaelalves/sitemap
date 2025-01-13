@@ -14,6 +14,8 @@ require "get_tag.php" ;
 
 require "info_name.php" ;
 
-require "update.php" ;
+require "url_set.php" ;
 
-require "url_set" ;
+require "refresh.php" ;
+
+require "update.php" ;
